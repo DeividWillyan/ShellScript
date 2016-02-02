@@ -1,6 +1,6 @@
 #!/bin/bash
 # Detecta Mudança no IP
-# Desenvolvido por Deivid Willayn / https://www.facebook.com/DeividWillyanp
+# Desenvolvido por Deivid Willayn / https://www.facebook.com/DeividWillyan
 # 05-01-2016 Versão 0.1
 # 02-02-2016 Versão 0.2
 # Otimização de Codigo.
