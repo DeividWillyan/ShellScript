@@ -12,6 +12,6 @@ TEXT="$1"
 TIME="10"
 CHATID="-110056247"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
-KEY="232843304:AAEjFXFe9Y0RiugELwwE2455Vom45XVlJmg"
+KEY="TOKEN AQUI!!!!"
 
 curl -s --max-time $TIME -d "chat_id=$CHATID&disable_web_page_preview=1&text=$TEXT" $URL &> /dev/null
